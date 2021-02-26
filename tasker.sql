@@ -93,7 +93,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `login`, `password`, `admin`) VALUES
 (1, 'michal', 'cygan6562', 'yes'),
-(3, 'test', 'test123', 'no')
+(3, 'test', 'test123', 'no'),
 (2, 'subroto', 'subroto@admin', 'yes');
 
 --
